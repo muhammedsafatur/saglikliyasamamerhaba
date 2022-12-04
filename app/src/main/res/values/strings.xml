@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">LoginAndSignUp</string>
+    <string name="email_giris">E-mailinizi Girin</string>
+    <string name="sifre_giris">Şifrenizi Girin</string>
+    <string name="kayit_olma">Henüz Kayıtlı Değilim, Kayıt Ol!</string>
+    <string name="giris">Giriş</string>
+    <string name="email_giris1">E-mailinizi Girin</string>
+    <string name="sifre_giris1">Şifrenizi Girin</string>
+    <string name="tekrar_sifre">Tekrar Şifrenizi Girin</string>
+    <string name="kayit_ol">Kayıt Ol</string>
+    <string name="kayitliyim">Zaten Kayıtlıyım, Oturum Aç!</string>
+</resources>
