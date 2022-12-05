@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Anasayfa"
+        android:id="@+id/Anasayfa"
+        android:icon="@drawable/ic_baseline_home_24"/>
+    <item android:title="Kişisel Veri"
+        android:id="@+id/kisisel_veri"
+        android:icon="@drawable/ic_baseline_person_24"/>
+    <item android:title="Egzersizler"
+        android:id="@+id/egzersiz"
+        android:icon="@drawable/ic_baseline_sports_gymnastics_24"
+    <item android:title="Sağlıklı Yaşam Bilgileri"
+       android:id="@+id/bilgi"
+        android:icon="@drawable/ic_baseline_health_and_safety_24"  />
+</menu>
