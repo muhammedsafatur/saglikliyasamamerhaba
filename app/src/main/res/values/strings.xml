@@ -11,4 +11,12 @@
     <string name="kayitliyim">Zaten Kayıtlıyım, Oturum Aç!</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="egzersizler_fragment">Egzersizler</string>
+    <string name="anasayfa_navbar">Anasayfa</string>
+    <string name="kisisel_veri__navbar">Kişisel Veri</string>
+    <string name="egzersizler_navbar">Egzersizler</string>
+    <string name="saglikli_yasam_bilgileri_navbar">Sağlıklı Yaşam Bilgileri</string>
+    <string name="bilgiler_fragment">Bilgiler</string>
+    <string name="kisisel_veriler_fragment">Kişisel Veriler</string>
+    <string name="anasayfa_fragment">Anasayfa</string>
 </resources>
