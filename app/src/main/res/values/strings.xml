@@ -9,14 +9,15 @@
     <string name="tekrar_sifre">Tekrar Şifrenizi Girin</string>
     <string name="kayit_ol">Kayıt Ol</string>
     <string name="kayitliyim">Zaten Kayıtlıyım, Oturum Aç!</string>
+    <string name="anasayfa">Anasayfa</string>
+    <string name="kisisel_veriler">Kişisel Veriler</string>
+    <string name="egzersiz">Egzersiz</string>
+    <string name="saglıklı_yasam">Sağlıklı Yaşam Bilgileri</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
-    <string name="egzersizler_fragment">Egzersizler</string>
-    <string name="anasayfa_navbar">Anasayfa</string>
-    <string name="kisisel_veri__navbar">Kişisel Veri</string>
-    <string name="egzersizler_navbar">Egzersizler</string>
-    <string name="saglikli_yasam_bilgileri_navbar">Sağlıklı Yaşam Bilgileri</string>
-    <string name="bilgiler_fragment">Bilgiler</string>
-    <string name="kisisel_veriler_fragment">Kişisel Veriler</string>
-    <string name="anasayfa_fragment">Anasayfa</string>
+    <string name="Egzersiz">Egzersiz</string>
+    <string name="saglıklı_yasam_bilgileri">Sağlıklı Yaşam Bilgileri</string>
+    <string name="kisisel_bilgiler">Kişisel Bilgiler</string>
+    <string name="home">Anasayfa</string>
+    <!-- TODO: Remove or change this placeholder text -->
 </resources>

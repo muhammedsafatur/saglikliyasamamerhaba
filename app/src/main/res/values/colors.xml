@@ -10,7 +10,9 @@
 
 
     <color name="yellow">#FFC801</color>
-
-
+     <color name ="bottom_nav_background">#FED800</color>
+    <color name="bottom_nav_item">#8C706D</color>
+    <color name="bottom_nav_selected_item">#220006</color>
+    <color name="fragment_bg_color">#fdf8f4</color>
 
 </resources>
