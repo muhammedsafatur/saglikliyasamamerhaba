@@ -9,10 +9,47 @@
       "client_info": {
         "mobilesdk_app_id": "1:1051721989637:android:515904a87371544990666c",
         "android_client_info": {
-          "package_name": "com.codingstuff.loginandsignup"
+          "package_name": "com.safa.saglikliyasamamerhaba"
         }
       },
       "oauth_client": [
+        {
+          "client_id": "1051721989637-2bpmatt7j8ff22fsh800n3nc7epgrp7a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJ0HboZHhc9r9Nz18x-D42eD8Jusa4Tg0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1051721989637-2bpmatt7j8ff22fsh800n3nc7epgrp7a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1051721989637:android:432960560be9a79990666c",
+        "android_client_info": {
+          "package_name": "com.safa.saglikliyasamamerhaba"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1051721989637-63bjshm1aa3kcvkg4agtbc5s3cf5tc6g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.safa.saglikliyasamamerhaba",
+            "certificate_hash": "f9a8ba5e3000fe8ab3b86e55481bd5b1afe7074b"
+          }
+        },
         {
           "client_id": "1051721989637-2bpmatt7j8ff22fsh800n3nc7epgrp7a.apps.googleusercontent.com",
           "client_type": 3

@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">LoginAndSignUp</string>
+    <string name="app_name">Sağlıklı Yaşama Merhaba !</string>
     <string name="email_giris">E-mailinizi Girin</string>
     <string name="sifre_giris">Şifrenizi Girin</string>
     <string name="kayit_olma">Henüz Kayıtlı Değilim, Kayıt Ol!</string>

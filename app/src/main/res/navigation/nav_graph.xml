@@ -7,22 +7,22 @@
 
     <fragment
         android:id="@+id/anasayfaFragment"
-        android:name="com.codingstuff.loginandsignup.anasayfaFragment"
+        android:name="com.safa.saglikliyasamamerhaba.anasayfaFragment"
         android:label="fragment_anasayfa"
         tools:layout="@layout/fragment_anasayfa" />
     <fragment
         android:id="@+id/bilgiFragment"
-        android:name="com.codingstuff.loginandsignup.bilgiFragment"
+        android:name="com.safa.saglikliyasamamerhaba.bilgiFragment"
         android:label="fragment_bilgi"
         tools:layout="@layout/fragment_bilgi" />
     <fragment
         android:id="@+id/kbilgilerFragment"
-        android:name="com.codingstuff.loginandsignup.kbilgilerFragment"
+        android:name="com.safa.saglikliyasamamerhaba.kbilgilerFragment"
         android:label="fragment_kbilgiler"
         tools:layout="@layout/fragment_kbilgiler" />
     <fragment
         android:id="@+id/sporFragment"
-        android:name="com.codingstuff.loginandsignup.sporFragment"
+        android:name="com.safa.saglikliyasamamerhaba.sporFragment"
         android:label="fragment_spor"
         tools:layout="@layout/fragment_spor" />
 </navigation>
