@@ -19,5 +19,24 @@
     <string name="saglıklı_yasam_bilgileri">Sağlıklı Yaşam Bilgileri</string>
     <string name="kisisel_bilgiler">Kişisel Bilgiler</string>
     <string name="home">Anasayfa</string>
+    <string name="egzersizler">Egzersizler !</string>
+    <string name="anasayfaya_hosgeldiniz">Anasayfaya Hoşgeldiniz !</string>
+    <string name="barfiks">Barfiks</string>
+    <string name="mekik">Mekik</string>
+    <string name="plank">Plank</string>
+    <string name="sinav">Şınav</string>
+    <string name="squat">Squat</string>
+    <string name="kosu">Koşu</string>
+    <string name="saglikliyasamfragmentbilgigecici">Sağlıklı Yaşama Dair Bütün Bilgiler Burada !</string>
+    <string name="alkolzarar">Alkolün Zararları</string>
+    <string name="dengeli_beslenme">Dengeli Beslenme</string>
+    <string name="sebzevemeyveyemeninfaydalar">SebzeVeMeyveYemeninFaydaları</string>
+    <string name="sigaranin_zararlari">Sigaranın Zararları</string>
+    <string name="bisiklet_surmenin_faydalari">Bisiklet Sürmenin Faydaları</string>
+    <string name="uyku_duzensizligi">Uyku Düzensizliği</string>
+    <string name="abprep">AB-PREP</string>
+    <string name="kopru">Köprü</string>
+    <string name="kafein">kafein</string>
+    <string name="su">su</string>
     <!-- TODO: Remove or change this placeholder text -->
 </resources>
