@@ -62,5 +62,13 @@
     <string name="textşansdileme">Çok İyi Birşey Çıkacağına Eminim :)</string>
     <string name="rastgelebutonu">Senin İçin Rastgele Bir Aktivite</string>
     <string name="sihirbazin_marifeti">sihirbazın marifeti</string>
+    <string name="rastgele_aktivite">Rastgele Aktivite</string>
+    <string name="bilgiler">Bilgiler</string>
+    <string name="egzersizlernav">Egzersizler</string>
+    <string name="anasayfanav">Anasayfa</string>
+    <string name="hesapla">Hesapla</string>
+    <string name="kilonuzu_giriniz">Kilonuzu Giriniz</string>
+    <string name="sonu">Sonuç:</string>
+    <string name="boyunuzu_giriniz">Boyunuzu Giriniz</string>
     <!-- TODO: Remove or change this placeholder text -->
 </resources>

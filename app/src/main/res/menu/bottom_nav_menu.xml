@@ -4,17 +4,17 @@
     <item
         android:id="@+id/anasayfaFragment"
         android:icon="@drawable/ic_baseline_home_24"
-        android:title="Anasayfa" />
+        android:title="@string/anasayfanav" />
     <item
         android:id="@+id/sporFragment"
         android:icon="@drawable/ic_baseline_sports_gymnastics_24"
-        android:title="Egzersizler" />
+        android:title="@string/egzersizlernav" />
     <item
         android:id="@+id/bilgiFragment"
         android:icon="@drawable/ic_baseline_health_and_safety_24"
-        android:title="Bilgiler" />
+        android:title="@string/bilgiler" />
     <item
         android:id="@+id/kbilgilerFragment"
         android:icon="@drawable/ic_baseline_person_24"
-        android:title="Kişisel Bilgiler" />
+        android:title="@string/rastgele_aktivite" />
 </menu>
