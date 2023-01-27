@@ -4,6 +4,8 @@ import android.os.Bundle
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
+import android.widget.Button
+import android.widget.TextView
 import androidx.fragment.app.Fragment
 
 // TODO: Rename parameter arguments, choose names that match
@@ -17,6 +19,9 @@ private const val ARG_PARAM2 = "param2"
  * create an instance of this fragment.
  */
 class kbilgilerFragment : Fragment() {
+    private lateinit var button: Button
+    private lateinit var textView: TextView
+    private val myArray = arrayOf("5 tane Şınav 3 Set", "5 Tane Barfiks 2 Set", "10 Mekik 3 Set", "10 Dakika koşu","1 Bardak Su iç","30 Dakika Bisiklet Sür","20 Squat Yap","30 Saniye Plank")
     // TODO: Rename and change types of parameters
     private var param1: String? = null
     private var param2: String? = null
@@ -34,7 +39,19 @@ class kbilgilerFragment : Fragment() {
         savedInstanceState: Bundle?
     ): View? {
         // Inflate the layout for this fragment
-        return inflater.inflate(R.layout.fragment_kbilgiler, container, false)
+
+        val view = inflater.inflate(R.layout.fragment_kbilgiler, container, false)
+
+        button = view.findViewById(R.id.button)
+        textView = view.findViewById(R.id.textView)
+
+        button.setOnClickListener {
+            val randomText = myArray.random()
+            textView.text = randomText
+        }
+
+return view
+
     }
 
     companion object {

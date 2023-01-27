@@ -27,9 +27,11 @@
                 android:layout_width="240dp"
                 android:layout_height="198dp"
                 android:layout_gravity="center|end"
-                android:text="Alkol"
-                android:textColor="@color/purple_700"
-                android:textSize="23sp"
+                android:background="@color/bottom_nav_background"
+                android:backgroundTint="@color/fragment_bg_color"
+                android:text="@string/alkolbilgi"
+                android:textColor="@color/black"
+                android:textSize="16sp"
                 android:textStyle="bold" />
         </androidx.cardview.widget.CardView>
         <androidx.cardview.widget.CardView
@@ -48,9 +50,11 @@
                 android:layout_width="240dp"
                 android:layout_height="200dp"
                 android:layout_gravity="center|end"
-                android:text="This Is Vertical ScrollView"
-                android:textColor="@color/purple_700"
-                android:textSize="23sp"
+                android:background="@color/bottom_nav_background"
+                android:backgroundTint="@color/fragment_bg_color"
+                android:text="@string/dengelibeslenmebilgi"
+                android:textColor="@color/black"
+                android:textSize="16sp"
                 android:textStyle="bold" />
 
         </androidx.cardview.widget.CardView>
@@ -71,9 +75,11 @@
                 android:layout_width="240dp"
                 android:layout_height="201dp"
                 android:layout_gravity="center|end"
-                android:text="This Is Vertical ScrollView"
-                android:textColor="@color/purple_700"
-                android:textSize="23sp"
+                android:background="@color/bottom_nav_background"
+                android:backgroundTint="@color/fragment_bg_color"
+                android:text="@string/sebzemeyvefaydabilgi"
+                android:textColor="@color/black"
+                android:textSize="15sp"
                 android:textStyle="bold" />
         </androidx.cardview.widget.CardView>
 
@@ -95,9 +101,11 @@
                 android:layout_width="240dp"
                 android:layout_height="203dp"
                 android:layout_gravity="center|end"
-                android:text="This Is Vertical ScrollView"
-                android:textColor="@color/purple_700"
-                android:textSize="23sp"
+                android:background="@color/bottom_nav_background"
+                android:backgroundTint="@color/fragment_bg_color"
+                android:text="@string/sigarazararbilgi"
+                android:textColor="@color/black"
+                android:textSize="14sp"
                 android:textStyle="bold"
                 tools:ignore="InOrMmUsage" />
         </androidx.cardview.widget.CardView>
@@ -118,9 +126,11 @@
                 android:layout_width="240dp"
                 android:layout_height="199dp"
                 android:layout_gravity="center|end"
-                android:text="This Is Vertical ScrollView"
-                android:textColor="@color/purple_700"
-                android:textSize="23sp"
+                android:background="@color/bottom_nav_background"
+                android:backgroundTint="@color/fragment_bg_color"
+                android:text="@string/uykudüzensizliğibilgi"
+                android:textColor="@color/black"
+                android:textSize="16sp"
                 android:textStyle="bold" />
         </androidx.cardview.widget.CardView>
 
@@ -140,9 +150,11 @@
                 android:layout_width="240dp"
                 android:layout_height="200dp"
                 android:layout_gravity="center|end"
-                android:text="This Is Vertical ScrollView"
-                android:textColor="@color/purple_700"
-                android:textSize="23sp"
+                android:background="@color/bottom_nav_background"
+                android:backgroundTint="@color/fragment_bg_color"
+                android:text="@string/bisikletfaydabilgi"
+                android:textColor="@color/black"
+                android:textSize="16sp"
                 android:textStyle="bold" />
         </androidx.cardview.widget.CardView>
 
@@ -161,9 +173,11 @@
                 android:layout_width="240dp"
                 android:layout_height="201dp"
                 android:layout_gravity="center|end"
-                android:text="This Is Vertical ScrollView"
-                android:textColor="@color/purple_700"
-                android:textSize="23sp"
+                android:background="@color/bottom_nav_background"
+                android:backgroundTint="@color/fragment_bg_color"
+                android:text="@string/sufaydasıbilgi"
+                android:textColor="@color/black"
+                android:textSize="16sp"
                 android:textStyle="bold" />
         </androidx.cardview.widget.CardView>
 
@@ -182,9 +196,11 @@
                 android:layout_width="240dp"
                 android:layout_height="202dp"
                 android:layout_gravity="center|end"
-                android:text="This Is Vertical ScrollView"
-                android:textColor="@color/purple_700"
-                android:textSize="23sp"
+                android:background="@color/bottom_nav_background"
+                android:backgroundTint="@color/fragment_bg_color"
+                android:text="@string/kafeinbilgi"
+                android:textColor="@color/black"
+                android:textSize="15sp"
                 android:textStyle="bold" />
         </androidx.cardview.widget.CardView>
 
