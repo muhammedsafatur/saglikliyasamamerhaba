@@ -70,5 +70,7 @@
     <string name="kilonuzu_giriniz">Kilonuzu Giriniz</string>
     <string name="sonu">Sonuç:</string>
     <string name="boyunuzu_giriniz">Boyunuzu Giriniz</string>
+    <string name="step_counter_text_view">0</string>
+    <string name="adiminiz">Adımınız</string>
     <!-- TODO: Remove or change this placeholder text -->
 </resources>
